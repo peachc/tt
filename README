@@ -1,1 +1,10 @@
-This is something
+TT Company Finder
+===
+
+Iterates through each TT user and prints to the screen. 
+
+
+Usage:
+===
+
+Type in command "companyFind.py -u USERNAME -p PASSWORD > OUTFILENAME
